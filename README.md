@@ -8,3 +8,5 @@ Customer churn analysis - exploration
 사용 기술: Python, SQL
 분석 목표: 이탈 고객의 특성과 이탈 요인 파악
 링크: https://github.com/h2lloheidi/customer_churn_analysis
+두두두두두두두 두두둥 라라라라라랄ㄹ라라랄라라랄
+
